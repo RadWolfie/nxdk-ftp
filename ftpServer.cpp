@@ -14,7 +14,6 @@
 #include <lwip/timeouts.h>
 #include <netif/etharp.h>
 #include <nxdk/mount.h>
-#include <pktdrv.h>
 #include <xboxkrnl/xboxkrnl.h>
 #else
 #include <arpa/inet.h>
